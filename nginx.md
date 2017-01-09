@@ -34,7 +34,7 @@ server {
     }
 }
 ```
-Notice the `server_name yourdomain.com www.yourdomain.com;` You can add multiple urls to a singl configuration if you seperate them with spaces, in this example `yourdomain.com` and `www.yourdomain.com` are two urls. 
+Notice the `server_name yourdomain.com www.yourdomain.com;` You can add multiple urls to a single configuration if you seperate them with spaces, in this example `yourdomain.com` and `www.yourdomain.com` are two urls. 
 This is very useful for adding your url with and without 'www'
 **For this to work you must uncomment the line in `/etc/nginx/nginx.conf`:**
 ```
