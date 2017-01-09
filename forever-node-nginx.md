@@ -1,5 +1,7 @@
 
 ###forever
+NPM module that watches your node app and re-runs it if it crashes. [forever on npm](https://www.npmjs.com/package/forever)
+
 Installation
 ```
 npm install forever -g
