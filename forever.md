@@ -1,4 +1,4 @@
-
+I like PM2 more now, use [PM2](pm2.md)
 ###forever
 NPM module that watches your node app and re-runs it if it crashes. [forever on npm](https://www.npmjs.com/package/forever)
 
