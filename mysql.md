@@ -1,4 +1,4 @@
-#MySQL
+# MySQL
 
 ### Log in
 `mysql -u username -p`
