@@ -1,10 +1,8 @@
 # Bash
 
+### Making a script file executable
 
-first line of fileF
-`#!/bin/sh` 
-Permissions 755
-`sudo chmod 755 myscript.sh`
-This allows the file to be executable by bash:
-`./myscript.sh` or `./myscript`
-instead of `sh myscript.sh`
+- First line of file should be `#!/bin/sh` 
+
+- Permissions shoudl be set to 755 `sudo chmod 755 myscript.sh`
+  - This allows the file to be executable by bash: `./myscript.sh` or `./myscript` instead of `sh myscript.sh`
