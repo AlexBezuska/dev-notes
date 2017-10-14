@@ -26,3 +26,20 @@ add this line to wp-config.php
 ```php
 define('FS_METHOD', 'direct');
 ```
+
+
+### If Password reset emails don't work
+
+Install sendmail
+```sh
+sudo apt-get install sendmail
+```
+and then configure sendmail(just choose the defaults)
+```sh
+sudo sendmailconfig
+```
+
+reboot the server
+```sh
+sudo reboot
+```
