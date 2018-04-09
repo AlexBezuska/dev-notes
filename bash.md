@@ -1,5 +1,12 @@
 # Bash
 
+### Create a symlink
+
+```
+ln -s /any/file/on/the/disk linked-file
+```
+
+
 ### Making a script file executable
 
 - First line of file should be `#!/bin/sh` 
