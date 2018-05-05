@@ -16,6 +16,7 @@ sudo apt install  gconf-service  lib32gcc1  lib32stdc++6  libasound2  libc6 libc
 
 ## Discovered Issues (not yet solved)
 
-- No support for installing Vueforia
+**v2017.3.1f1**
+- No support for installing Vuforia AR/VR toolkit [Vuforia Downloads Page](https://developer.vuforia.com/downloads/sdk)
 - Anchor presets `Alt` and `Shift` key modifiers do not work [Unity Manual: Basic Layout](https://docs.unity3d.com/Manual/UIBasicLayout.html)
 - Automatic API Updater - both options `I Made a Backup, Go Ahead!` and `No Thanks!` result in editor closing and no changes beign made
